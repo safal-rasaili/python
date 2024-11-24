@@ -1,0 +1,5 @@
+var1 = int(input("Enter the first integer number:\t"))
+var2 = int(input("Enter the second integer number:\t"))
+print("\n")
+print("the first integer number is:\t", var1)
+print("The second integer number is:\t", var2)
